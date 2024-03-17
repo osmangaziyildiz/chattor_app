@@ -13,7 +13,6 @@ Bu projede şunları kullandım:
 
 ◉ RIVERPOD -> Flutter üzerinde State Management için.
 
-◉ Kullandığım diğer bir çok kütüphane ve eklentiyi "Media" sekmesine ekran görüntüsü olarak ekledim.
 
 [EN]
 Chattor is a live text & video chat application.
@@ -30,4 +29,3 @@ In this project, i used the following:
 
 ◉ RIVERPOD for State Management.
 
-◉ I have added a screenshot containing other dependencies I use to the 'Media' tab.

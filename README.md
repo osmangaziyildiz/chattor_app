@@ -1,7 +1,7 @@
 [TR]
 Chattor bir anlık mesajlaşma ve görüntülü sohbet uygulaması.
 
-Şu an Google Play üzerinde kapalı test aşamasında.
+Şu an Google Play'de
 
 Bu projede şunları kullandım:
 
@@ -13,11 +13,13 @@ Bu projede şunları kullandım:
 
 ◉ RIVERPOD -> Flutter üzerinde State Management için.
 
+◉ MVVM mimarisi
+
 
 [EN]
 Chattor is a live text & video chat application.
 
-Currently is a closed-test stage on google play.
+Now on Google Play
 
 In this project, i used the following:
 
@@ -28,4 +30,6 @@ In this project, i used the following:
 ◉ FIREBASE Cloud Firestore / Authentication / Storage for Authentication and data storage.
 
 ◉ RIVERPOD for State Management.
+
+◉ MVVM architecture
 
